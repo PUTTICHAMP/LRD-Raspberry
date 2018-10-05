@@ -1,0 +1,2 @@
+# LRD-Raspberry
+LDR AND ADS1115
